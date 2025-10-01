@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c21a42f-ae46-4d05-aff5-971b59775ffc/resourceGroups/AZ204/providers/Microsoft.Web/sites/az204silvan",
+    "appService.deploySubpath": "."
+}
